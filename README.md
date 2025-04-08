@@ -8,14 +8,16 @@
 ``` pip install pymupdf requests rich ```
 
 ### 2.运行程序
-python 人民日报PDF下载工具.py
+``` python 人民日报PDF下载工具.py ```
 
 ### 3.程序运行
-``` pip install pymupdf requests rich ```
+``` python 人民日报PDF下载工具.py -h ```
 ![示例图片](1.png)
 
+``` python 人民日报PDF下载工具.py -d 20250408 ```
 ![示例图片](2.png)
 
+``` python 人民日报PDF下载工具.py -r 20250401-20250407 ```
 ![示例图片](3.png)
 
 ![示例图片](4.png)
